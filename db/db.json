@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Ram",
+      "lastName": "Sharma",
+      "emailId": "RamS@gmail.com",
+      "password": "Ram@123",
+      "role": "employee"
+    },
+    {
+      "id": 2,
+      "firstName": "Shaam",
+      "lastName": "Varma",
+      "emailId": "ShamV@gmail.com",
+      "password": "Sham@123",
+      "role": "manager"
+    },
+    {
+      "id": 3,
+      "firstName": "Seeta",
+      "lastName": "Yadav",
+      "emailId": "SeetaYadav@gmail.com",
+      "password": "seeta123",
+      "role": "customer"
+    },
+    {
+      "id": 4,
+      "firstName": "Reeta",
+      "lastName": "saxena",
+      "emailId": "Reetu7@gmail.com",
+      "password": "reetu123",
+      "role": "customer"
+    },
+    {
+      "firstName": "rahul",
+      "lastName": "sharma",
+      "emailId": "rahulsharma@gmail.com",
+      "password": "Rahul@123",
+      "role": "Developer",
+      "id": 6
+    }
+  ]
+}
